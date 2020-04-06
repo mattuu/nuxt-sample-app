@@ -1,4 +1,4 @@
-# nuxt-sample-apop
+# nuxt-sample-app
 
 > My swell Nuxt.js project
 
